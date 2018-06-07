@@ -1,0 +1,3 @@
+# Reload the .bash_profile to gain new capabilities it defines
+alias reload='source ~/.bash_profile'
+

@@ -1,0 +1,15 @@
+
+
+#######################
+# Postgres
+#######################
+
+# Sets up environment for postgres
+source /Library/PostgreSQL/10/pg_env.sh
+
+# Adds postgres binaries to $PATH
+export PATH="$PATH:/Library/PostgreSQL/10/bin"
+
+#######################
+# /Postgres
+#######################

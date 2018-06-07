@@ -1,0 +1,9 @@
+[core]
+    editor = code --wait
+    excludesfile = ~/.gitignore
+    precomposeunicode = true
+    quotePath = false
+    autocrlf = false
+    safecrlf = false
+[diff]
+    renameLimit = 999999
