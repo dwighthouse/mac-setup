@@ -2,4 +2,4 @@
 alias reload='source ~/.bash_profile'
 
 # Show permissions as numbers
-alias permissions='stat -f '%A %N' *'
+alias permissions="stat -f '%A %N' *"
