@@ -36,8 +36,17 @@ Install Apps
 * [ImageOptim](https://imageoptim.com/)
 * [Opera](https://www.opera.com/download)
 * Shush
+* [Simplify3D](https://cloud.simplify3d.com/)
 * Slack
 * [Talon](https://talonvoice.com/)
 * Transmit
 * [Visual Studio Code](https://code.visualstudio.com/download)
 * [VLC](https://www.videolan.org/vlc/download-macosx.html)
+
+## Setup VCCode
+
+[Install the command line utility](https://code.visualstudio.com/docs/setup/mac) by running the process command:
+
+```
+Shell Command: Install 'code' command in PATH
+```
